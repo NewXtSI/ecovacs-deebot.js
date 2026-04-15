@@ -15,3 +15,5 @@ library/map/
 
 *.code-workspace
 /qodana.yaml
+example/settings.js
+example/settings.js
